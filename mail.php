@@ -1,3 +1,3 @@
 <?php
-$rta = mail("bautistamiano@gmail.com","Mensaje web: $asunto", $mensaje);
+$rta = mail("qrodriguez@uade.edu.ar","Mensaje web: $asunto", $mensaje);
 var_dump($rta);
